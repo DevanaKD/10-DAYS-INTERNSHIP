@@ -7,6 +7,6 @@ LED BULB
 
 # EXPERIMENT NO 2
 ```
-LED BULB (SWITCH)
+LED BULB ( USING SWITCH)
 ```
 ![LED](https://github.com/DevanaKD/10-DAYS-INTERNSHIP/blob/main/img/day2expt2.png)
