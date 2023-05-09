@@ -9,4 +9,4 @@ LED BULB
 ```
 LED BULB (SWITCH)
 ```
-![LED](https://github.com/DevanaKD/10-DAYS-INTERNSHIP/blob/main/img/day2exp2.png)
+![LED](https://github.com/DevanaKD/10-DAYS-INTERNSHIP/blob/main/img/day2expt2.png)
