@@ -3,4 +3,4 @@
 LED BULB
 ```
 
-![LED](
+![LED](https://github.com/DevanaKD/10-DAYS-INTERNSHIP/blob/main/img/day2exp1.png)
