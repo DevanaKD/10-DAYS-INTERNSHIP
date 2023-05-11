@@ -11,7 +11,8 @@ LED BULB
 LED BULB ( USING SWITCH)
 ```
 ![LED](https://github.com/DevanaKD/10-DAYS-INTERNSHIP/blob/main/img/day2expt2.png)
-```
+
+
 # DAY 3
 ```
 ## experiment no 1
@@ -20,9 +21,9 @@ AND GATE
 ```
 [tinker this](https://www.tinkercad.com/things/hzxRUv2JRk9-fantastic-bombul)
 
-Arudinuo
+### BLINKING OF LED USING  ARDUINO
 
-[arudinuo](https://www.tinkercad.com/things/3tXXgDRUF0m-mighty-hango-densor/editel?tenant=circuits)
+[Arduino](https://www.tinkercad.com/things/3tXXgDRUF0m-mighty-hango-densor/editel?tenant=circuits)
 
 ```
 // C++ code
