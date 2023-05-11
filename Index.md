@@ -19,3 +19,6 @@ LED BULB ( USING SWITCH)
 AND GATE
 ```
 [tinker this](https://www.tinkercad.com/things/hzxRUv2JRk9-fantastic-bombul)
+
+Arudinuo
+[arudinuo](https://www.tinkercad.com/things/3tXXgDRUF0m-mighty-hango-densor/editel?tenant=circuits)
