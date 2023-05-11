@@ -16,4 +16,4 @@ LED BULB ( USING SWITCH)
 ```
 ## experiment no 1
 ```
-[tinker this](https://www.tinkercad.com/things/hzxRUv2JRk9-fantastic-bombul/editel)
+[tinker this](https://www.tinkercad.com/things/hzxRUv2JRk9-fantastic-bombul)
