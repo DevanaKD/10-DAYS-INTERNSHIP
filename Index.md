@@ -14,5 +14,6 @@ LED BULB ( USING SWITCH)
 ```
 # DAY 3
 ```
-[tinker this](https://www.tinkercad.com/things/erXxVnNZ8T6-bodacious-uusam/editel)
+## experiment no 1
+```
 [tinker this](https://www.tinkercad.com/things/hzxRUv2JRk9-fantastic-bombul/editel)
