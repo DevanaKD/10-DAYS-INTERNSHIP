@@ -1,4 +1,5 @@
-# EXPERIMENT NO 1
+# DAY 2
+## EXPERIMENT NO 1
 ```
 LED BULB
 ```
