@@ -22,8 +22,11 @@ AND GATE
 [tinker this](https://www.tinkercad.com/things/hzxRUv2JRk9-fantastic-bombul)
 
 ### BLINKING OF LED USING  ARDUINO
+```
 
-[Arduino](https://www.tinkercad.com/things/3tXXgDRUF0m-mighty-hango-densor/editel?tenant=circuits)
+[arduino](https://www.tinkercad.com/things/3tXXgDRUF0m-mighty-hango-densor/editel?tenant=circuits)
+
+PROGRAM
 
 ```
 // C++ code
