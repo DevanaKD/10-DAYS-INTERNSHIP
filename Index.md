@@ -16,11 +16,12 @@ LED BULB ( USING SWITCH)
 # DAY 3
 ```
 ## experiment no 1
-```
+
 AND GATE
 ```
-[tinker this](https://www.tinkercad.com/things/hzxRUv2JRk9-fantastic-bombul)
 
+[tinker this](https://www.tinkercad.com/things/hzxRUv2JRk9-fantastic-bombul)
+```
 ### BLINKING OF LED USING  ARDUINO
 ```
 
