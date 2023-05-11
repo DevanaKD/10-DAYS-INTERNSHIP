@@ -2,7 +2,7 @@
 ```
 LED BULB
 ```
-{tinker this}(https://www.tinkercad.com/things/erXxVnNZ8T6-bodacious-uusam/editel)
+[tinker this](https://www.tinkercad.com/things/erXxVnNZ8T6-bodacious-uusam/editel)
 ![LED](https://github.com/DevanaKD/10-DAYS-INTERNSHIP/blob/main/img/day2exp1.png)
 
 # EXPERIMENT NO 2
