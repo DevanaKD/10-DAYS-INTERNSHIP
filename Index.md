@@ -13,4 +13,5 @@ LED BULB ( USING SWITCH)
 ![LED](https://github.com/DevanaKD/10-DAYS-INTERNSHIP/blob/main/img/day2expt2.png)
 ```
 # DAY 2
+```
 [tinker this](https://www.tinkercad.com/things/hzxRUv2JRk9-fantastic-bombul/editel)
