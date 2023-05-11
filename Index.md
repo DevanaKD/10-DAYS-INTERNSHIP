@@ -45,13 +45,14 @@ void loop()
   delay(1000); // Wait for 1000 millisecond(s)
 }
 ```
-# DANCING BULB
+# DANCING LED
 ```
 ### Led
 ```
-[LED](https://www.tinkercad.com/things/3tXXgDRUF0m-mighty-hango-densor/editel)
+[led](https://www.tinkercad.com/things/3tXXgDRUF0m-mighty-hango-densor/editel)
 ```
 program
+
 ```
 // C++ code
 //
