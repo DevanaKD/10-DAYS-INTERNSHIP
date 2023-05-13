@@ -73,4 +73,8 @@ void loop()
   delay(300); // Wait for 1000 millisecond(s)
 }
 ```
+# 7 SEGEMENT LED
+
+[7 segement](https://www.tinkercad.com/things/4tx06v0p1Wu-powerful-amur/editel)
+```
 
