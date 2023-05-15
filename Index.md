@@ -77,4 +77,27 @@ void loop()
 
 [7 segement](https://www.tinkercad.com/things/4tx06v0p1Wu-powerful-amur/editel)
 ```
+```
+# DAY 5
 
+# POTENTIOMETER 
+[ANALOG SIGNAL](https://www.tinkercad.com/things/aCe0HZnyCx7-magnificent-amberis-blad/editel?tenant=circuits)
+
+
+PROGRAM
+```
+const int potpin =A0;
+
+void setup()
+{
+Serial.begin(9600);
+}
+
+void loop()
+{
+  int potValue = analogRead(potpin);
+  Serial.println(potValue);
+  delay(100);
+}
+
+```
