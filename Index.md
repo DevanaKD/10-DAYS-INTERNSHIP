@@ -104,7 +104,7 @@ void loop()
 
 DISPLAY OF 7 SEGEMENT BY USIND ARDUINO
  
-[7 SEGEMENT]{https://www.tinkercad.com/things/5BDLt41DD6i-fantastic-maimu-wolt/editel}
+[7segement]{https://www.tinkercad.com/things/5BDLt41DD6i-fantastic-maimu-wolt/editel}
 
 PROGRAM
 
