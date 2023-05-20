@@ -207,7 +207,7 @@ void loop()
 }
 ```
 # ASSIGNMENT
-![TOKEN]{https://github.com/DevanaKD/10-DAYS-INTERNSHIP/blob/main/img/TOKEN.jpg}
+![TOKEN]{https://github.com/DevanaKD/10-DAYS-INTERNSHIP/blob/main/img/TOKEN.png}
 
 
 
